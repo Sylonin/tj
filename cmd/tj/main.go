@@ -12,7 +12,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/sgreben/tj/pkg/color"
+	"github.com/sylonin/tj/pkg/color"
 )
 
 type token struct {
